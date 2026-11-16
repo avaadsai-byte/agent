@@ -1,0 +1,4 @@
+interface:
+  display_name: "گزارش ماهیانه فروش نوین"
+  short_description: "گزارش فروش و پیگیری نوین و به‌روزرسانی لندینگ HTML"
+  default_prompt: "با $novin-monthly-sales-report گزارش فروش نوین را تا تاریخ امروز به‌روز کن."
